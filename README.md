@@ -1,4 +1,5 @@
-## csharp-data-structures
+# DataStructures in Csharp
+##| formerly known as csharp-data-structures
 
 [![Build Status](https://travis-ci.org/gwtw/csharp-data-structures.svg?branch=master)](https://travis-ci.org/gwtw/csharp-data-structures)
 
